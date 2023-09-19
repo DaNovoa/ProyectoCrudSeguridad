@@ -1,0 +1,28 @@
+# Proyecto de Seguridad en Bogotá
+
+Este proyecto es un sistema de seguimiento de incidentes de seguridad en Bogotá.
+
+## Descripción
+
+El sistema permite a los usuarios agregar, editar y eliminar incidentes de seguridad, así como ver una lista de incidentes existentes.
+
+## Configuración
+
+Asegúrate de configurar la base de datos en el archivo `config.php` antes de usar la aplicación.
+
+## Uso
+
+1. Agrega incidentes utilizando el formulario en la página de inicio.
+2. Edita o elimina incidentes existentes haciendo clic en los botones correspondientes.
+3. Visualiza la lista de incidentes en la página de inicio.
+
+## Contribuciones
+
+
+## Autor
+
+Daniel Felipe Novoa Beltran
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
